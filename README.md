@@ -10,12 +10,6 @@
 
 Cybersecurity analyst and automation engineer based in Barakaldo, Spain. I automate security processes with n8n and Python, build threat intelligence tools and train AI models to automate incident response. 🥉 3rd place at the Ciberlehia 2026 cybersecurity competition.
 
-## Currently
-
-- 🛡️ Cybersecurity Analyst and Process Automation Engineer at **Versia CyberShield**
-- 🌐 Freelance web developer for local businesses (**ArahejiDev**)
-- 🗣️ English C1 · Basque B2 · German A2 (in progress)
-
 ## Skills
 
 ### Languages
@@ -62,20 +56,6 @@ Experience with relational and non-relational database management systems.
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-8957E5?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-74aa9c?style=for-the-badge&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-## Experience
-
-- **Cybersecurity Analyst and Process Automation Engineer**, Versia CyberShield (02/2026 - Present)
-- **Data Engineer (Internship)**, CYC (02/2025 - 05/2025): data processing and ETLs with Python
-- **Junior Programmer (Internship)**, CYC (03/2024 - 05/2024): web development with C#
-- **Junior Programmer (Internship)**, Bilbomatica Altia (03/2023 - 05/2023): development with the UDA framework
-
-## Education
-
-- Specialist Certification in Cybersecurity, CIFP Txurdinaga (2025-2026)
-- Specialist Certification in Data Analysis and AI, CIFP San Jorge (2024-2025)
-- Higher Vocational Diploma in Web Application Development, CIFP San Jorge (2023-2024)
-- Higher Vocational Diploma in Multiplatform Application Development, CIFP Elorrieta-Errekamari (2021-2023)
 
 ## Contact
 
