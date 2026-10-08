@@ -6,6 +6,16 @@
 
 ###
 
+<img data-importer="image" align="right" height="150" src="https://media.tenor.com/Bgu5ndf4wN0AAAAj/joe-camel-smoke.gif"  />
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/ArahejiDev/ArahejiDev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="14" />
@@ -98,22 +108,12 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ArahejiDev/ArahejiDev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/aratz-hernandez-jimenez-46829734a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://media.tenor.com/Bgu5ndf4wN0AAAAj/joe-camel-smoke.gif"  />
 
 ###
 
