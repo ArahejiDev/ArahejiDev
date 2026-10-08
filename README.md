@@ -8,7 +8,8 @@
 
 ###
 
-<h3 data-importer="text" align="left">Cybersecurity analyst and automation engineer based in Spain. I automate security processes with n8n and Python, build threat intelligence tools and train AI models to automate incident response. 3rd place at the Ciberlehia 2026 cybersecurity competition</h3>
+<h3 data-importer="text" align="center">Cybersecurity analyst and automation engineer based in Spain. I automate security processes with n8n and Python, build threat intelligence tools and train AI models. <br><br>3rd place at the Ciberlehia 2026 cybersecurity competition</h3>
+
 
 ###
 
