@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi, I'm Aratz! 
+  # Hi :)! 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&color=F72E93&center=true&vCenter=true&lines=Cybersecurity;Automation;AI)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Cybersecurity analyst and automation engineer based in Spain. I automate security processes with n8n and Python, build threat intelligence tools and train AI models. <br><br>3rd place at the Ciberlehia 2026 cybersecurity competition</h3>
+<h3 data-importer="text" align="center">Cybersecurity analyst and automation engineer. I love to tinker with tech and train AI models. <br><br>3rd place at the Ciberlehia 2026 cybersecurity competition</h3>
 
 
 ###
