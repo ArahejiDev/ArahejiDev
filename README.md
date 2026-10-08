@@ -15,11 +15,16 @@
 
 <img data-importer="image" align="right" height="150" src="https://media.tenor.com/Bgu5ndf4wN0AAAAj/joe-camel-smoke.gif"  />
 
+
 ###
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/ArahejiDev/ArahejiDev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h4 data-importer="text" align="center">AI-Driven Technologies</h4>
 
 ###
 
@@ -38,6 +43,10 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
 </div>
+
+###
+
+<h4 data-importer="text" align="center">Multiplatform Driven Technologies</h4>
 
 ###
 
@@ -89,6 +98,10 @@
 
 ###
 
+<h4 data-importer="text" align="center">Cloud computing</h4>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="14" />
@@ -105,6 +118,10 @@
 
 ###
 
+<h4 data-importer="text" align="center">DB Driven Technologies</h4>
+
+###
+
 <br clear="both">
 
 <div data-importer="techs" align="center">
@@ -118,6 +135,10 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+###
+
+<h4 data-importer="text" align="center">OS and Others</h4>
 
 ###
 
@@ -155,5 +176,7 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
 
 ###
