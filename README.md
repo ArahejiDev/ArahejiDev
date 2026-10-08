@@ -1,4 +1,10 @@
-<h1 data-importer="text" align="left">Hi, I'm Aratz</h1>
+<div align="center">
+
+  # Hi, I'm Aratz!
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&color=F72E93&center=true&vCenter=true&lines=Cybersecurity+Analyst;Process+Automation+Engineer;AI+%26+Threat+Intelligence)](https://git.io/typing-svg)
+
+</div>
 
 ###
 
