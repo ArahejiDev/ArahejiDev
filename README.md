@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi, I'm Aratz!
+  #< Hi, I'm Aratz! >
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&color=F72E93&center=true&vCenter=true&lines=Cybersecurity;Automation;AI)](https://git.io/typing-svg)
 
